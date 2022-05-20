@@ -14,6 +14,7 @@
         <module>hw04-generics</module>
         <module>hw06-annotations</module>
         <module>hw08-gc</module>
+        <module>hw10-byteCodes</module>
     </modules>
 
     <properties>
