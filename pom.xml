@@ -13,6 +13,7 @@
         <module>hw01-maven</module>
         <module>hw04-generics</module>
         <module>hw06-annotations</module>
+        <module>hw08-gc</module>
     </modules>
 
     <properties>
